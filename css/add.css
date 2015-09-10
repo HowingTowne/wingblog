@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+body{
+}
+#form{
+	width: 300px;
+	height:400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+#form span{
+	display: block;
+	width:200px;
+	height:30px;
+	font-size:16px;
+}
+#title{
+	width: 200px;
+	height: 30px;
+	font-size: 16px;
+	text-height: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#content{
+	width:200px;
+	height:150px;
+	font-size:16px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+#submit{
+	display: block;
+	width: 100px;
+	height:30px;
+	margin-top: 20px;
+	margin-left: 150px;
+}
